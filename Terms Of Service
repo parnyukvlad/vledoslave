@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-radius: 10px;
+        }
+        h1 {
+            text-align: center;
+            color: #007bff;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Terms of Service</h1>
+        <p><strong>Last updated: February 24, 2025</strong></p>
+        <p>By using this website, you agree to the following terms and conditions.</p>
+        <p><strong>Usage:</strong> The content provided is for informational purposes only.</p>
+        <p><strong>Restrictions:</strong> You may not use this website for any unlawful activities.</p>
+        <p><strong>Changes:</strong> We reserve the right to modify these terms at any time.</p>
+        <footer>&copy; 2025 Vledoslave. All rights reserved.</footer>
+    </div>
+</body>
+</html>
